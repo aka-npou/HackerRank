@@ -1,4 +1,4 @@
-package challenges.javaAnagrams.problem;
+package challenges.java.Anagrams.problem;
 
 import org.junit.jupiter.api.Test;
 

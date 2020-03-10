@@ -1,4 +1,4 @@
-package challenges.Days30RegexPatterns.problem;
+package challenges.Days30.RegexPatterns.problem;
 
 import java.io.*;
 import java.math.*;

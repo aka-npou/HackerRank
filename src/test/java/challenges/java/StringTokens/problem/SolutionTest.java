@@ -1,4 +1,4 @@
-package challenges.javaStringTokens.problem;
+package challenges.java.StringTokens.problem;
 
 import org.junit.jupiter.api.Test;
 

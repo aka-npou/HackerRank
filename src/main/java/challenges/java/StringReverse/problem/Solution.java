@@ -1,4 +1,4 @@
-package challenges.javaStringReverse.problem;
+package challenges.java.StringReverse.problem;
 
 import java.io.*;
 import java.util.*;

@@ -1,4 +1,4 @@
-package challenges.javaSubstring.problem;
+package challenges.java.Substring.problem;
 
 import static org.junit.jupiter.api.Assertions.*;
 

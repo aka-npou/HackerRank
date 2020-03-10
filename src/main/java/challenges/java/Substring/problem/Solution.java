@@ -1,4 +1,4 @@
-package challenges.javaSubstring.problem;
+package challenges.java.Substring.problem;
 
 import java.io.*;
 import java.util.*;

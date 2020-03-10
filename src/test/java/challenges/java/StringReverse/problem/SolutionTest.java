@@ -1,4 +1,4 @@
-package challenges.javaStringReverse.problem;
+package challenges.java.StringReverse.problem;
 
 import org.junit.jupiter.api.Test;
 
