@@ -13,6 +13,11 @@ public class Solution {
         String S = in.next();
         int start = in.nextInt();
         int end = in.nextInt();
+        System.out.println(getSubString(S, start, end));
+    }
+
+    public static String getSubString(String s, int start, int end) {
+        return s.substring(start, end);
     }
 }
 
